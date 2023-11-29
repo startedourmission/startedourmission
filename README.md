@@ -59,4 +59,6 @@ Here are some ideas to get you started:
 </span>
 
 <br/><br/>
+<!--
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:abdbe3,10:76b5c5,30:154c79,75:eeeee4,100:063970&height=40&section=footer&text=&fontSize=0" width="100%"/>
+-->
