@@ -49,12 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=plastic&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=plastic&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=plastic&logo=nvidia&logoColor=white"/>
   
 </span>
 
