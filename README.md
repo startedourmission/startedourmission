@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Blog : https://startedourmission.github.io/index.html
+### Blog https://startedourmission.github.io/index.html
 
 ### HuPo-AnT is Released 🌱
 
